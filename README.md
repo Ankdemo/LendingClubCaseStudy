@@ -20,9 +20,9 @@ The company can utilize this knowledge for its portfolio and risk assessment.
 #### Step 1: Data Understanding   
 #### Step 2: Data Cleaning
 #### Step 3: Data Analysis 
-#### Step 3.1: Univariate Analysis 
-#### Step 3.2: Bivariate Analysis 
-#### Step 3.3: Multivariate Analysis  
+##### Step 3.1: Univariate Analysis 
+##### Step 3.2: Bivariate Analysis 
+##### Step 3.3: Multivariate Analysis  
 #### Step 4: Recommendations based on the observations 
 
 
